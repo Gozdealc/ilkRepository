@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-        Archis Academy'e hoş geldiniz!!
+        Archis Academy'e hoş geldiniz!! Gözde Alıcı 
         </p>
       </div>
       <p className="read-the-docs">
